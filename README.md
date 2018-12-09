@@ -56,4 +56,5 @@ DirectDM:  F. Bishara, J. Brod, B. Grinstein, and J. Zupan (2017) e-print:  1708
 Xenon100:  XENON collaboration and B. Farmer (2017) e-print:  1705.02614.
 
 Joachim Brod, Henry Schreiner, Michele Tammaro, L.C.R. Wijewardhana, and Jure Zupan
+
 University of Cincinnati, Violet M. Diller Fellowship
