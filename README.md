@@ -43,7 +43,7 @@ There are examples for each package given as Jupyter notebooks.
 
 ## Authors
 
-* **Lauren Street** - [laurenstreet](https://github.com/laurenstreet)
+[laurenstreet](https://github.com/laurenstreet)
 
 
 ## Acknowledgments
