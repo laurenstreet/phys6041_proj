@@ -48,8 +48,11 @@ There are examples for each package given as Jupyter notebooks.
 
 ## Acknowledgments
 DMFormfactor:  A.L. Fitzpatrick, W. Haxton, E. Katz, N. Lubbers, and Y. Xu (2012) e-print: 1203.3542.
+
 DMFormfactor:  N. Anand, A. L. Fitzpatrick, and W.C. Haxton (2013) e-print:  1308.6288.
+
 DirectDM:  F. Bishara, J. Brod, B. Grinstein, and J. Zupan (2017) e-print:  1708.02678.
+
 Xenon100:  XENON collaboration and B. Farmer (2017) e-print:  1705.02614.
 
 Joachim Brod, Henry Schreiner, Michele Tammaro, L.C.R. Wijewardhana, and Jure Zupan
